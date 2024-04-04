@@ -1,0 +1,11 @@
+interpretador para ver resultado sem telas 
+novo terminal digita python
+
+dir() retorna os nomes no escopo local
+dir(100) - consegue ver os metodos dentro deste numero 100
+
+import math (biblioteca de matematica)
+
+HELP fala quais argumentos o metodo recebe, como funciona e como retorna, ajuda
+help()
+hekp(100)
